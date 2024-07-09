@@ -1,1 +1,1 @@
-1panel
+mysql:5.7.24
