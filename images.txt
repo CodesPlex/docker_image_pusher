@@ -1,1 +1,1 @@
-mysql:8.4.1
+open-webui
